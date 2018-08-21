@@ -1,0 +1,4 @@
+.ieda
+.pytest_cache
+report
+__pycache__
